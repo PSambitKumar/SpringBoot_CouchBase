@@ -1,5 +1,6 @@
 package com.javatechie.couchbase.api.model;
 
+import lombok.Generated;
 import org.springframework.data.couchbase.core.mapping.Document;
 
 import com.couchbase.client.java.repository.annotation.Field;
